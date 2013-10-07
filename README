@@ -9,3 +9,7 @@ INSTALLATION
 3. Modify settings in config/database.php
 4. Modify settings in config/tank_auth.php
 5. Modify settings in config/tank_auth_social.php
+
+TODO (07 Oct 2013):
+- Add avatar field to database.
+- Facebook avatar.
